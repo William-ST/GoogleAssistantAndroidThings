@@ -17,7 +17,7 @@
 package com.example.androidthings.assistant.shared;
 
 public class MyDevice {
-    public static final String MODEL_ID = "model_id";
-    public static final String INSTANCE_ID = "instance_id";
-    public static final String LANGUAGE_CODE = "en-US";
+    public static final String MODEL_ID = "proyecto2019-5f72d-producto-ijov2i";
+    public static final String INSTANCE_ID = "masterUPVraspberry2019";
+    public static final String LANGUAGE_CODE = "es-ES";
 }
